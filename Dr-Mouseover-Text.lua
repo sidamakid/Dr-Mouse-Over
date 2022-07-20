@@ -14,4 +14,10 @@ hooksecurefunc(GameTooltip, "SetUnitDebuff", function(self, unitName, debuffInde
   end
 end)
 
-
+hooksecurefunc(GameTooltip, "SetUnitAura", function(self, unitName, debuffIndex, filters)
+  local name = UnitAura(unitName, debuffIndex, filters)
+  if Dr_Mouse_Over_Spells[DR_Mouse_Over_GetEnglishName(name)] then
+  GameTooltip:AddDoubleLine(L_DR_Mouse_Over_Text["Dr-Category"], Dr_Mouse_Over_Spells[DR_Mouse_Over_GetEnglishName(name)], 1, 1, 0, 1, 1, 1)
+  GameTooltip:Show()
+  end
+end)
