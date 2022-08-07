@@ -1,5 +1,5 @@
 ## Interface: 30400
-## Version: 1.5.0
+## Version: 1.5.5
 ## Title: Dr-Mouseover
 ## Title-koKR: 닥터 마우스 오버
 ## Title-frFR: Dr Mouse over
@@ -28,17 +28,7 @@
 # Localizing_Table
 Dr-Mouseover-localize-Table.lua
 # Localizing
-Localizing\Dr-Mouseover-localize-Text-enUS.lua
-Localizing\Dr-Mouseover-localize-Text-koKR.lua
-Localizing\Dr-Mouseover-localize-Text-frFR.lua
-Localizing\Dr-Mouseover-localize-Text-deDE.lua
-Localizing\Dr-Mouseover-localize-Text-zhCN.lua
-Localizing\Dr-Mouseover-localize-Text-esES.lua
-Localizing\Dr-Mouseover-localize-Text-zhTW.lua
-Localizing\Dr-Mouseover-localize-Text-esMX.lua
-Localizing\Dr-Mouseover-localize-Text-ruRU.lua
-Localizing\Dr-Mouseover-localize-Text-ptBR.lua
-Localizing\Dr-Mouseover-localize-Text-itIT.lua
+Localizing\locale.xml
 # Dr-Mouseover-Spells-Tables
 Dr-Mouseover-Spells-Tables\Dr-Mouseover-Classic-Spells.lua
 Dr-Mouseover-Spells-Tables\Dr-Mouseover-TBC-Spells.lua

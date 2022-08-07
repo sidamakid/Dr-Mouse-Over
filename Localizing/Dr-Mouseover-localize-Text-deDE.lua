@@ -27,4 +27,6 @@ if locale == "deDE" then
     L_DR_Mouse_Over_Text["Taunt"] = "Verspotten";
     L_DR_Mouse_Over_Text["Frost Shock"] = "Frostschock";
     L_DR_Mouse_Over_Text["Scatter Shot"] = "Scatter-Aufnahme";
+    L_DR_Mouse_Over_Text["Charge"] = "Berechnen";
+    L_DR_Mouse_Over_Text["Cyclone"] = "Zyklon";
 end

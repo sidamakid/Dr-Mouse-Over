@@ -27,4 +27,6 @@ if locale == "frFR" then
     L_DR_Mouse_Over_Text["Taunt"] = "Raillerie";
     L_DR_Mouse_Over_Text["Frost Shock"] = "Choc de gel";
     L_DR_Mouse_Over_Text["Scatter Shot"] = "Tir de dispersion";
+    L_DR_Mouse_Over_Text["Charge"] = "Charger";
+    L_DR_Mouse_Over_Text["Cyclone"] = "Cyclone";
 end

@@ -27,4 +27,6 @@ if locale == "esES" then
     L_DR_Mouse_Over_Text["Taunt"] = "Mofa";
     L_DR_Mouse_Over_Text["Frost Shock"] = "Choque de heladas";
     L_DR_Mouse_Over_Text["Scatter Shot"] = "Disparo de dispersión";
+    L_DR_Mouse_Over_Text["Charge"] = "Cargo";
+    L_DR_Mouse_Over_Text["Cyclone"] = "Ciclón";
 end

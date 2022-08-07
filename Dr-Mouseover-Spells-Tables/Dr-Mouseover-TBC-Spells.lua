@@ -1,4 +1,4 @@
-local isTbcWow = (WOW_PROJECT_ID == WOW_PROJECT_BURNING_CRUSADE_CLASSIC)
+local isTbcWow = (LE_EXPANSION_LEVEL_CURRENT == LE_EXPANSION_BURNING_CRUSADE)
 if isTbcWow then
 local L_DR_Mouse_Over_Text = DR_Mouse_Over_Test_Localization_My_Localization_Table
 

@@ -27,4 +27,6 @@ if locale == "ruRU" then
     L_DR_Mouse_Over_Text["Taunt"] = "Насмешка";
     L_DR_Mouse_Over_Text["Frost Shock"] = "Морозный шок";
     L_DR_Mouse_Over_Text["Scatter Shot"] = "Разброс выстрела";
+    L_DR_Mouse_Over_Text["Charge"] = "Обвинение";
+    L_DR_Mouse_Over_Text["Cyclone"] = "Циклон";
 end

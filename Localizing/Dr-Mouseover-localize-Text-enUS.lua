@@ -22,9 +22,11 @@ if locale == "enUS" then
     L_DR_Mouse_Over_Text["Unstable Affliction"] = "Unstable Affliction";
     L_DR_Mouse_Over_Text["Chastise"] = "Chastise";
     L_DR_Mouse_Over_Text["Horror"] = "Horror";
-    L_DR_Mouse_Over_Text["Horror"] = "Opener Stun";
+    L_DR_Mouse_Over_Text["Opener Stun"] = "Opener Stun";
     L_DR_Mouse_Over_Text["Knockback"] = "Knockback";
     L_DR_Mouse_Over_Text["Taunt"] = "Taunt";
     L_DR_Mouse_Over_Text["Frost Shock"] = "Frost Shock";
     L_DR_Mouse_Over_Text["Scatter Shot"] = "Scatter Shot";
+    L_DR_Mouse_Over_Text["Charge"] = "Charge";
+    L_DR_Mouse_Over_Text["Cyclone"] = "Cyclone";
 end

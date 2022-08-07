@@ -17,6 +17,10 @@ local englishToSpellID = {--Dr-Mouseover-localizing
   ["Intimidation"] = 19577,
   ["Shadowfury"] = 30283,
   ["Maim"] = 22570,
+  ["Holy Wrath"] = 2812,
+  ["Deep Freeze"] = 44572,
+  ["Demon Charge"] = 54785,
+  ["Shockwave"] = 46968,
   --Stun procs
   ["Improved Starfire"] = 16850,
   ["Celestial Focus"] = 16850,
@@ -25,21 +29,28 @@ local englishToSpellID = {--Dr-Mouseover-localizing
   ["Blackout"] = 15268,
   ["Seal of Justice"] = 20164,
   ["Mace Specialization"] = 12284 or 13709,
+  ["Stoneclaw Stun"] = 39796,
+  ["Revenge Stun"] = 12798,
+  ["Stunning Blow"] = 5726,
+  ["Stun"] = 20170,
   --Sleep
   ["Hibernate"] = 2637,
   --Incapacitates
   ["Gouge"] = 1776,
   ["Sap"] = 6770,
-  ["Polymorph"] = 118,
+  ["Polymorph"] = 118 or 61721,
   ["Polymorph: Turtle"] = 28271,
   ["Polymorph: Pig"] = 28272,
   ["Wyvern Sting"] = 19386,
   ["Repentance"] = 20066,
+  ["Hex"] = 51514,
+  ["Banish"] = 710,
+  ["Freezing Arrow Effect"] = 60210,
+  ["Freezing Trap Effect"] = 3355,
   --Disorients
   ["Blind"] = 2094,
   ["Cyclone"] = 33786,
   ["Shackle Undead"] = 9484,
-  ["Psychic Horror"] = 64044,
   ["Mind Control"] = 605,
   --Silences
   ["Silence"] = 15487,
@@ -48,6 +59,9 @@ local englishToSpellID = {--Dr-Mouseover-localizing
   ["Silencing Shot"] = 34490,
   ["Improved Counterspell"] = 11255,
   ["Improved Kick"] = 13754,
+  ["Strangulate"] = 47476,
+  ["Spell Lock"] = 19244,
+  ["Gag Order"] = 19244,
   ["Arcane Torrent"] = 50613 or 28730 or 25046,
   --Fears/ Get's merged with Disorients in a later expansion
   ["Death Coil"] = 6789, --Dr's with it's slef in Vanilla, Tbc, and in Wrath.
@@ -55,6 +69,7 @@ local englishToSpellID = {--Dr-Mouseover-localizing
   ["Fear"] = 5782,
   ["Seduction"] = 6358,
   ["Howl of Terror"] = 5484,
+  ["Psychic Horror"] = 64044,
   ["Intimidating Shout"] = 5246,
   ["Scare Beast"] = 1513,
   ["Turn Evil"] = 10326,
@@ -62,6 +77,8 @@ local englishToSpellID = {--Dr-Mouseover-localizing
   ["Entangling Roots"] = 339,
   ["Frost Nova"] = 122,
   ["Nature's Grasp"] = 16689,
+  ["Pin"] = 50245,
+  ["Freeze"] = 40875,
   ["Counterattack"] = 19306,
   --Root proc
   ["Entrapment"] = 19184,
@@ -71,6 +88,9 @@ local englishToSpellID = {--Dr-Mouseover-localizing
   --Disarm
   ["Disarm"] = 676,
   ["Riposte"] =  14251,
+  ["Chimera Shot"] = 53209,
+  ["Dismantle"] = 51722,
+  ["Snatch"] = 50541,
   --Chastise
   ["Chastise"] = 44041,
   --Scatter

@@ -27,4 +27,6 @@ if locale == "koKR" then
     L_DR_Mouse_Over_Text["Taunt"] = "조롱";
     L_DR_Mouse_Over_Text["Frost Shock"] = "서리 쇼크";
     L_DR_Mouse_Over_Text["Scatter Shot"] = "스캐터 샷";
+    L_DR_Mouse_Over_Text["Charge"] = "충전";
+    L_DR_Mouse_Over_Text["Cyclone"] = "사이 클론";
 end

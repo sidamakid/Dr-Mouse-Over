@@ -27,4 +27,6 @@ if locale == "zhTW" then
     L_DR_Mouse_Over_Text["Taunt"] = "嘲諷";
     L_DR_Mouse_Over_Text["Frost Shock"] = "霜凍衝擊";
     L_DR_Mouse_Over_Text["Scatter Shot"] = "散射";
+    L_DR_Mouse_Over_Text["Charge"] = "負責";
+    L_DR_Mouse_Over_Text["Cyclone"] = "氣旋";
 end

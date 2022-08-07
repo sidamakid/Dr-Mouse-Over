@@ -13,7 +13,6 @@ hooksecurefunc(GameTooltip, "SetUnitDebuff", function(self, unitName, debuffInde
   GameTooltip:Show()
   end
 end)
-
 hooksecurefunc(GameTooltip, "SetUnitAura", function(self, unitName, debuffIndex, filters)
   local name = UnitAura(unitName, debuffIndex, filters)
   if Dr_Mouse_Over_Spells[DR_Mouse_Over_GetEnglishName(name)] then

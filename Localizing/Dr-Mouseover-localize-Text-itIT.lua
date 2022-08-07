@@ -27,4 +27,6 @@ if locale == "itIT" then
     L_DR_Mouse_Over_Text["Taunt"] = "Schernire";
     L_DR_Mouse_Over_Text["Frost Shock"] = "Shock di gelo";
     L_DR_Mouse_Over_Text["Scatter Shot"] = "Scatto a dispersione";
+    L_DR_Mouse_Over_Text["Charge"] = "Accusa";
+    L_DR_Mouse_Over_Text["Cyclone"] = "Ciclone";
 end

@@ -27,4 +27,6 @@ if locale == "zhCN" then
     L_DR_Mouse_Over_Text["Taunt"] = "嘲讽";
     L_DR_Mouse_Over_Text["Frost Shock"] = "霜冻冲击";
     L_DR_Mouse_Over_Text["Scatter Shot"] = "散射";
+    L_DR_Mouse_Over_Text["Charge"] = "负责";
+    L_DR_Mouse_Over_Text["Cyclone"] = "气旋";
 end

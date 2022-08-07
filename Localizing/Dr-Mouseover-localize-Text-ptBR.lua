@@ -27,4 +27,6 @@ if locale == "ptBR" then
     L_DR_Mouse_Over_Text["Taunt"] = "Zombar";
     L_DR_Mouse_Over_Text["Frost Shock"] = "Choque de geada";
     L_DR_Mouse_Over_Text["Scatter Shot"] = "Tiro de dispersão";
+    L_DR_Mouse_Over_Text["Charge"] = "Acusação";
+    L_DR_Mouse_Over_Text["Cyclone"] = "Ciclone";
 end
