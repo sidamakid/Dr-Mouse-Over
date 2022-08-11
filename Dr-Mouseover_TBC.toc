@@ -1,5 +1,5 @@
 ## Interface: 20504
-## Version: 1.5.5
+## Version: 1.2.0
 ## Title: Dr-Mouseover
 ## Title-koKR: 닥터 마우스 오버
 ## Title-frFR: Dr Mouse over
@@ -23,8 +23,6 @@
 ## Notes-ptBR: Mostra o que o Dr. categoria um feitiço se enquadra na ponta da ferramenta.
 ## Notes-itIT: Mostra in quale categoria Dr rientra un incantesimo nella descrizione comando.
 ## Author: Sidamakid Tinman
-
-
 # Localizing_Table
 Dr-Mouseover-localize-Table.lua
 # Localizing
@@ -34,7 +32,13 @@ Dr-Mouseover-Spells-Tables\Dr-Mouseover-Classic-Spells.lua
 Dr-Mouseover-Spells-Tables\Dr-Mouseover-TBC-Spells.lua
 Dr-Mouseover-Spells-Tables\Dr-Mouseover-Wrath-Spells.lua
 Dr-Mouseover-Spells-Tables\Dr-Mouseover-Retail-Spells.lua
+# Dr-Mouseover-Spells-Debuffs
+Dr-Mouseover-Spells-Debuffs\Dr-Mouseover-Classic-Spells.lua
+Dr-Mouseover-Spells-Debuffs\Dr-Mouseover-TBC-Spells.lua
+Dr-Mouseover-Spells-Debuffs\Dr-Mouseover-Wrath-Spells.lua
+Dr-Mouseover-Spells-Debuffs\Dr-Mouseover-Retail-Spells.lua
 # Localize_Spell_list
 Dr-Mouseover-localize-Spells.lua
+Dr-Mouseover-localize-Spells-Debuffs.lua
 # Dr-Mouseover
 Dr-Mouseover-Text.lua

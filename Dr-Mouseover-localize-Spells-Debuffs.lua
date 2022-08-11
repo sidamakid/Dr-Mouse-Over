@@ -2,7 +2,7 @@ local callbacks = {}
 
 local localizedNames = {}
 local englishNames = {}
-function DR_Mouse_Over_LoadSpellNames()
+function DR_Mouse_Over_Debuffs_LoadSpellNames()
 local englishToSpellID = {--Dr-Mouseover-localizing
   --Stuns
   ["Kidney Shot"] = 408, --Dr's with it's self in Vanilla and Tbc.
@@ -54,14 +54,10 @@ local englishToSpellID = {--Dr-Mouseover-localizing
   ["Mind Control"] = 605,
   --Silences
   ["Silence"] = 15487,
-  ["Garrote"] = 703,
   ["Garrote - Silence"] = 1330,
   ["Unstable Affliction Silence Effect"] = 196364,
-  ["Unstable Affliction"] = 30108,
   ["Silencing Shot"] = 34490,
-  ["Improved Counterspell"] = 11255,
   ["Silenced - Improved Counterspell"] = 55021,
-  ["Improved Kick"] = 13754,
   ["Silenced - Improved Kick"] = 18425,
   ["Strangulate"] = 47476,
   ["Spell Lock"] = 19244,
@@ -73,7 +69,6 @@ local englishToSpellID = {--Dr-Mouseover-localizing
   ["Fear"] = 5782,
   ["Seduction"] = 6358,
   ["Howl of Terror"] = 5484,
-  ["Psychic Horror"] = 64044 or 64058,
   ["Intimidating Shout"] = 5246,
   ["Scare Beast"] = 1513,
   ["Turn Evil"] = 10326,
@@ -87,7 +82,7 @@ local englishToSpellID = {--Dr-Mouseover-localizing
   --Root proc
   ["Entrapment"] = 19184,
   ["Improved Wing Clip"] = 19228,
-  ["Improved Hamstring"] = 12289,
+  ["Improved Hamstring"] = 23694,
   ["Frostbite"] = 11071,
   --Disarm
   ["Disarm"] = 676,
@@ -95,6 +90,7 @@ local englishToSpellID = {--Dr-Mouseover-localizing
   ["Chimera Shot"] = 53209,
   ["Dismantle"] = 51722,
   ["Snatch"] = 50541,
+  ["Psychic Horror"] = 64058,
   --Chastise
   ["Chastise"] = 44041,
   --Scatter
@@ -138,15 +134,15 @@ local englishToSpellID = {--Dr-Mouseover-localizing
   end
 end
 
-function DR_Mouse_Over_GetEnglishName(localized)
+function DR_Mouse_Over_Debuffs_GetEnglishName(localized)
    return localizedNames[localized] or ""
 end
 
-function DR_Mouse_Over_GetLocalizedName(english)
+function DR_Mouse_Over_Debuffs_GetLocalizedName(english)
    return englishNames[english] or ""
 end
 
-function DR_Mouse_Over_AddLocalizedCallback(func)
+function DR_Mouse_Over_Debuffs_AddLocalizedCallback(func)
   table.insert(callbacks, func)
 end
 
@@ -155,7 +151,7 @@ local isInitialized = false
 frame:RegisterEvent("PLAYER_ENTERING_WORLD")
 frame:SetScript("OnEvent", function()
   if not isInitialized then
-    DR_Mouse_Over_LoadSpellNames()
+    DR_Mouse_Over_Debuffs_LoadSpellNames()
     isInitialized = true
   end
 end)

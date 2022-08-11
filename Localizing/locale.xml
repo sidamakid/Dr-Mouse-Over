@@ -1,13 +1,13 @@
-</UI>
-    <Script file="Dr-Mouseover-localize-Text-enUS.lua"/>
-    <Script file="Dr-Mouseover-localize-Text-koKR.lua"/>
-    <Script file="Dr-Mouseover-localize-Text-frFR.lua"/>
-    <Script file="Dr-Mouseover-localize-Text-deDE.lua"/>
-    <Script file="Dr-Mouseover-localize-Text-zhCN.lua"/>
-    <Script file="Dr-Mouseover-localize-Text-esES.lua"/>
-    <Script file="Dr-Mouseover-localize-Text-zhTW.lua"/>
-    <Script file="Dr-Mouseover-localize-Text-esMX.lua"/>
-    <Script file="Dr-Mouseover-localize-Text-ruRU.lua"/>
-    <Script file="Dr-Mouseover-localize-Text-ptBR.lua"/>
-    <Script file="Dr-Mouseover-localize-Text-itIT.lua"/>
 <UI>
+    <Script file="enUS.lua"/>
+    <Script file="koKR.lua"/>
+    <Script file="frFR.lua"/>
+    <Script file="deDE.lua"/>
+    <Script file="zhCN.lua"/>
+    <Script file="esES.lua"/>
+    <Script file="zhTW.lua"/>
+    <Script file="esMX.lua"/>
+    <Script file="ruRU.lua"/>
+    <Script file="ptBR.lua"/>
+    <Script file="itIT.lua"/>
+</UI>
