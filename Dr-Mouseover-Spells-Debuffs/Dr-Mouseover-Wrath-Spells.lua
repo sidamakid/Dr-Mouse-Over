@@ -1,4 +1,4 @@
-local isWrathWow = (LE_EXPANSION_LEVEL_CURRENT == LE_EXPANSION_NORTHREND)
+local isWrathWow = (LE_EXPANSION_LEVEL_CURRENT == LE_EXPANSION_WRATH_OF_THE_LICH_KING)
 if isWrathWow then
 local L_DR_Mouse_Over_Text = DR_Mouse_Over_Test_Localization_My_Localization_Table
 Dr_Mouse_Over_Debuff_Spells ={

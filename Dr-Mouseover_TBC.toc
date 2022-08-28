@@ -1,5 +1,5 @@
 ## Interface: 20504
-## Version: 1.2.0
+## Version: 1.2.2
 ## Title: Dr-Mouseover
 ## Title-koKR: 닥터 마우스 오버
 ## Title-frFR: Dr Mouse over
