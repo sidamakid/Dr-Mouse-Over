@@ -1,0 +1,28 @@
+## Interface: 20504
+## Version: 1.3.0
+## Title: Dr-Mouseover Tables
+## Title-koKR: 닥터 마우스오버 테이블
+## Title-frFR: Tables de survol de la souris Dr
+## Title-deDE: Dr Mouseover Tabellen
+## Title-zhCN: 鼠标悬停表博士
+## Title-zhTW: 滑鼠懸停表博士
+## Title-esES: Dr Mouseover Tablas
+## Title-esMX: Dr Mouseover Tablas
+## Title-ruRU: Таблицы dr mouseover
+## Title-ptBR: Mesas do Dr. Mouseover
+## Title-itIT: Dr Mouseover Tabelle
+## Notes: All the spells for Dr Mouseover
+## Notes-koKR: 닥터 마우스오버의 모든 주문
+## Notes-frFR: Tous les sorts pour Dr-Mouseover
+## Notes-deDE: Alle Zaubersprüche für Dr. Mouseover
+## Notes-zhCN: 莫托弗博士的所有咒语
+## Notes-zhTW: 莫托弗博士的所有咒語
+## Notes-esES: Todos los hechizos para el Dr. Mouseover
+## Notes-esMX: Todos los hechizos para el Dr. Mouseover
+## Notes-ruRU: Все заклинания для Dr Mouseover
+## Notes-ptBR: Todos os feitiços para o Dr. Mouseover
+## Notes-itIT: Tutti gli incantesimi per Dr Mouseover
+## Author: Sidamakid Tinman
+## RequiredDeps: Dr-Mouseover_localize
+
+Embeds.xml

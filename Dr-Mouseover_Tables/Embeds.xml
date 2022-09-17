@@ -1,0 +1,4 @@
+<UI>
+    <Include file= "Dr-Mouseover-Spells-Tables\Includes.xml"/>
+    <Include file="Dr-Mouseover-Spells-Debuffs\Includes.xml"/>
+</UI>

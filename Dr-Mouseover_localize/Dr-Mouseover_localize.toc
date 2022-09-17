@@ -1,0 +1,30 @@
+## Interface: 90207
+## Version: 1.3.0
+## Title: Dr-Mouseover localize
+## Title-koKR: Dr Mouseover는 현지화
+## Title-frFR: Dr Mouseover localiser
+## Title-deDE: Dr. Mouseover lokalisieren
+## Title-zhCN: 鼠标悬停博士本地化
+## Title-zhTW: 滑鼠懸停博士當地語系化
+## Title-esES: Dr Mouseover localizar
+## Title-esMX: Dr Mouseover localizar
+## Title-ruRU: Dr Mouseover локализует
+## Title-ptBR: Dr. Mouseover localizado
+## Title-itIT: Dr Mouseover localizzare
+## Notes: Localizing for Dr-Mouseover
+## Notes-koKR: Dr Mouseover를 위한 현지화
+## Notes-frFR: Localisation pour Dr Mouseover
+## Notes-deDE: Lokalisierung für Dr. Mouseover
+## Notes-zhCN: 为鼠标悬停博士进行本地化
+## Notes-zhTW: 為滑鼠懸停博士進行當地語系化
+## Notes-esES: Localización para el Dr. Mouseover
+## Notes-esMX: Localización para el Dr. Mouseover
+## Notes-ruRU: Локализация для Dr Mouseover
+## Notes-ptBR: Localização para Dr. Mouseover
+## Notes-itIT: Localizzazione per Dr Mouseover
+## Author: Sidamakid
+
+# Localizing_Table
+Dr-Mouseover-localize-Table.lua
+# Localizing
+Localizing\locale.xml

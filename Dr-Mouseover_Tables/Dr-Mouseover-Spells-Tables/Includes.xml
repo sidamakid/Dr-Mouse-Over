@@ -1,0 +1,6 @@
+<UI>
+    <Script file="Dr-Mouseover-Classic-Spells.lua"/>
+    <Script file="Dr-Mouseover-TBC-Spells.lua"/>
+    <Script file="Dr-Mouseover-Wrath-Spells.lua"/>
+    <Script file="Dr-Mouseover-Retail-Spells.lua"/>
+</UI>
