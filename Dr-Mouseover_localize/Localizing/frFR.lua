@@ -2,6 +2,7 @@ local locale = GetLocale()
 local L = Mouseover_Tooltip_Locale_Table
 if locale == "frFR" then
     --French
+    --Dr-Mouseover
     L["Kidney Shot"] = "Injection de rein";
     L["Dr-Category"] = "Dr-Catégorie";
     L["Stun"] = "Étourdir";
@@ -28,4 +29,23 @@ if locale == "frFR" then
     L["Scatter Shot"] = "Tir de dispersion";
     L["Charge"] = "Charger";
     L["Cyclone"] = "Cyclone";
+    --CC-Mouseover
+    L["Stuns"] = "Étourdit";
+    L["Slows"] = "Ralentit";
+    L["Fears"] = "Craintes";
+    L["Stun Procs"] = "Stun Procs";
+    L["Disarms"] = "Désarme";
+    L["Incapacitates"] = "Incapacités";
+    L["Disorients"] = "Désorientsants";
+    L["Roots"] = "Légume";
+    L["Root Procs"] = "Procs racine";
+    L["Charms"] = "Charmes";
+    L["Silences"] = "Silences";
+    L["Horrors"] = "Horreurs";
+    L["Knockbacks"] = "Contrecoups";
+    L["Others"] = "Autrui";
+    --Options Panel
+    L["Dr-Mouseover"] = "Dr Mouseover";
+    L["Spell Diminishing Returns on tooltip"] = "Épeler des rendements décroissants sur l’info-bulle";
+    L["Crowd Control on player tooltip"] = "Contrôle de foule sur l’info-bulle du lecteur";
 end

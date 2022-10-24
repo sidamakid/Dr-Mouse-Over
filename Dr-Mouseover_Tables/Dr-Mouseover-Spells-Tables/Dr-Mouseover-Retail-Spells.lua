@@ -3,7 +3,7 @@ if isRetailWow then
 local L = Mouseover_Tooltip_Locale_Table
 Dr_Mouse_Over_Spells = {
     --Incapacitates
-    [1776]    = L["Incapacitate"],    -- Gouge
+    [703]    = L["Incapacitate"],    -- Gouge
     [6770]    = L["Incapacitate"],    -- Sap
     [118]     = L["Incapacitate"],    -- Polymorph
     [28271]   = L["Incapacitate"],    -- Polymorph (Turtle)

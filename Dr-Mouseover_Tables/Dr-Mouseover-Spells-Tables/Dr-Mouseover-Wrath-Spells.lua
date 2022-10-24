@@ -34,6 +34,7 @@ Dr_Mouse_Over_Spells ={
     [9485]  = L["Incapacitate"], -- Shackle Undead (Rank 2)
     [10955] = L["Incapacitate"], -- Shackle Undead (Rank 3)
     [51514] = L["Incapacitate"], -- Hex
+    [49203] = L["Incapacitate"], -- Hungering Cold
   --Charm
     [605] = L["Charm"],   -- Mind Control
    --Silences
@@ -47,10 +48,10 @@ Dr_Mouse_Over_Spells ={
     [26884]  = L["Silence"], --Garrote (Rank 8)
     [48675]  = L["Silence"], --Garrote (Rank 9) 
     [48676]  = L["Silence"], --Garrote (Rank 10)
-   [11255] = L["Silence"], --Improved Counterspell (Rank 1)
-   [12598] = L["Silence"], --Improved Counterspell (Rank 2)
-   [13754] = L["Silence"], --Improved Kick (Rank 1)
-   [13867] = L["Silence"], --Improved Kick (Rank 2)
+    [11255] = L["Silence"], --Improved Counterspell (Rank 1)
+    [12598] = L["Silence"], --Improved Counterspell (Rank 2)
+    [13754] = L["Silence"], --Improved Kick (Rank 1)
+    [13867] = L["Silence"], --Improved Kick (Rank 2)
     [30108] = L["Silence"], --Unstable Affliction (Rank 1)
     [30404] = L["Silence"], --Unstable Affliction (Rank 2)
     [30405] = L["Silence"], --Unstable Affliction (Rank 3)

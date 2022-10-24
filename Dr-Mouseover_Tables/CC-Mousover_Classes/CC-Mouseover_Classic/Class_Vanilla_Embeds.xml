@@ -1,0 +1,11 @@
+<UI>
+    <Script file="Warrior.lua"/>
+    <Script file="Paladin.lua"/>
+    <Script file="Hunter.lua"/>
+    <Script file="Rogue.lua"/>
+    <Script file="Priest.lua"/>
+    <Script file="Shaman.lua"/>
+    <Script file="Mage.lua"/>
+    <Script file="Warlock.lua"/>
+    <Script file= "Druid.lua"/>
+</UI>

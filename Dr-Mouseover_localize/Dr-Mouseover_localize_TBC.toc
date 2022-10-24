@@ -1,5 +1,5 @@
 ## Interface: 20504
-## Version: 1.3.0
+## Version: 1.3.5
 ## Title: Dr-Mouseover localize
 ## Title-koKR: Dr Mouseover는 현지화
 ## Title-frFR: Dr Mouseover localiser
@@ -23,8 +23,9 @@
 ## Notes-ptBR: Localização para Dr. Mouseover
 ## Notes-itIT: Localizzazione per Dr Mouseover
 ## Author: Sidamakid
-
 # Localizing_Table
 Dr-Mouseover-localize-Table.lua
 # Localizing
 Localizing\locale.xml
+# CC-Mousover_locale
+CC-Mousover_locale\CC-Mousover_locale.xml

@@ -1,5 +1,5 @@
 ## Interface: 30400
-## Version: 1.3.0
+## Version: 1.3.5
 ## Title: Dr-Mouseover Tables
 ## Title-koKR: 닥터 마우스오버 테이블
 ## Title-frFR: Tables de survol de la souris Dr

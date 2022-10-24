@@ -1,0 +1,4 @@
+<UI>
+    <Script file="Cc-Mouseover_Classic.lua"/>
+    <Script file="Cc-Mouseover_Wrath.lua"/>
+</UI>

@@ -1,5 +1,5 @@
 ## Interface: 30400
-## Version: 1.3.0
+## Version: 1.3.5
 ## Title: Dr-Mouseover
 ## Title-koKR: 닥터 마우스 오버
 ## Title-frFR: Dr Mouse over
@@ -23,6 +23,11 @@
 ## Notes-ptBR: Mostra o que o Dr. categoria um feitiço se enquadra na ponta da ferramenta.
 ## Notes-itIT: Mostra in quale categoria Dr rientra un incantesimo nella descrizione comando.
 ## Author: Sidamakid Tinman
+## SavedVariablesPerCharacter: Advanced_Mousover_DB
 ## RequiredDeps: Dr-Mouseover_Tables, Dr-Mouseover_localize
+# Namespace
+Namespace.lua
 # Dr-Mouseover
 Dr-Mouseover-Text.lua
+# CC-Mousover
+CC-Mousover_Classic\CC-Mouseover_Embeds.xml

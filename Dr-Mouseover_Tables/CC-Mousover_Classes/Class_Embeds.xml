@@ -1,0 +1,4 @@
+<UI>
+    <Include file="CC-Mouseover_Classic\Class_Vanilla_Embeds.xml"/>
+    <Include file="CC-CC-Mouseover_Wrath\Class_Wrath_Embeds.xml"/>
+</UI>

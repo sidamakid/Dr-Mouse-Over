@@ -2,6 +2,7 @@ local locale = GetLocale()
 local L = Mouseover_Tooltip_Locale_Table
 if locale == "enUS" then
     --English
+    --Dr-Mouseover
     L["Kidney Shot"] = "Kidney Shot";
     L["Dr-Category"] = "Dr-Category";
     L["Stun"] = "Stun";
@@ -28,4 +29,23 @@ if locale == "enUS" then
     L["Scatter Shot"] = "Scatter Shot";
     L["Charge"] = "Charge";
     L["Cyclone"] = "Cyclone";
+    --CC-Mouseover
+    L["Stuns"] = "Stuns";
+    L["Slows"] = "Slows";
+    L["Fears"] = "Fears";
+    L["Stun Procs"] = "Stun Procs";
+    L["Disarms"] = "Disarms";
+    L["Incapacitates"] = "Incapacitates";
+    L["Disorients"] = "Disorients";
+    L["Roots"] = "Roots";
+    L["Root Procs"] = "Root Procs";
+    L["Charms"] = "Charms";
+    L["Silences"] = "Silences";
+    L["Horrors"] = "Horrors";
+    L["Knockbacks"] = "Knockbacks";
+    L["Others"] = "Others";
+    --Options Panel
+    L["Dr-Mouseover"] = "Dr-Mouseover";
+    L["Spell Diminishing Returns on tooltip"] = "Spell Diminishing Returns on tooltip";
+    L["Crowd Control on player tooltip"] = "Crowd Control on player tooltip";
 end

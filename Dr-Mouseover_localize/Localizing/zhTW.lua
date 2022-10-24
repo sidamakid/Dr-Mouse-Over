@@ -2,6 +2,7 @@ local locale = GetLocale()
 local L = Mouseover_Tooltip_Locale_Table
 if locale == "zhTW" then
     --Chinese Traditional
+    --Dr-Mouseover
     L["Kidney Shot"] = "腎臟注射";
     L["Dr-Category"] = "博士類";
     L["Stun"] = "打 暈";
@@ -28,4 +29,23 @@ if locale == "zhTW" then
     L["Scatter Shot"] = "散射";
     L["Charge"] = "負責";
     L["Cyclone"] = "氣旋";
+    --CC-Mouseover
+    L["Stuns"] = "暈眩";
+    L["Slows"] = "放緩";
+    L["Fears"] = "恐懼";
+    L["Stun Procs"] = "眩暈過程";
+    L["Disarms"] = "解除武裝";
+    L["Incapacitates"] = "喪失行為能力者";
+    L["Disorients"] = "迷失方向";
+    L["Roots"] = "根";
+    L["Root Procs"] = "根過程";
+    L["Charms"] = "魅力";
+    L["Silences"] = "沉默";
+    L["Horrors"] = "恐怖";
+    L["Knockbacks"] = "擊退";
+    L["Others"] = "別人";
+    --Options Panel
+    L["Dr-Mouseover"] = "莫莫沃博士";
+    L["Spell Diminishing Returns on tooltip"] = "在工具提示上拼寫遞減收益";
+    L["Crowd Control on player tooltip"] = "玩家工具提示上的人群控制";
 end

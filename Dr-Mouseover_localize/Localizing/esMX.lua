@@ -2,6 +2,7 @@ local locale = GetLocale()
 local L = Mouseover_Tooltip_Locale_Table
 if locale == "esMX" then
     --Spanish
+    --Dr-Mouseover
     L["Kidney Shot"] = "Inyección de riñón";
     L["Dr-Category"] = "Categoría Dr";
     L["Stun"] = "Aturdir";
@@ -28,4 +29,23 @@ if locale == "esMX" then
     L["Scatter Shot"] = "Disparo de dispersión";
     L["Charge"] = "Cargo";
     L["Cyclone"] = "Ciclón";
+    --CC-Mouseover
+    L["Stuns"] = "Aturde";
+    L["Slows"] = "Ralentiza";
+    L["Fears"] = "Miedos";
+    L["Stun Procs"] = "Procs de aturdimiento";
+    L["Disarms"] = "Desarma";
+    L["Incapacitates"] = "Incapacita";
+    L["Disorients"] = "Desorienta";
+    L["Roots"] = "Raíces";
+    L["Root Procs"] = "Procs de raíz";
+    L["Charms"] = "Encantos";
+    L["Silences"] = "Silencios";
+    L["Horrors"] = "Horrores";
+    L["Knockbacks"] = "Retrocesos";
+    L["Others"] = "Otros";
+    --Options Panel
+    L["Dr-Mouseover"] = "Dr. Mouseover";
+    L["Spell Diminishing Returns on tooltip"] = "Rendimientos decrecientes de hechizos en la información sobre herramientas";
+    L["Crowd Control on player tooltip"] = "Control de multitudes en la información sobre herramientas del jugador";
 end

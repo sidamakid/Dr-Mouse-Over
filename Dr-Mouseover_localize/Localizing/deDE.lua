@@ -2,6 +2,7 @@ local locale = GetLocale()
 local L = Mouseover_Tooltip_Locale_Table
 if locale == "deDE" then
     --German
+    --Dr-Mouseover
     L["Kidney Shot"] = "Nierenschuss";
     L["Dr-Category"] = "Dr-Kategorie";
     L["Stun"] = "Betäuben";
@@ -28,4 +29,23 @@ if locale == "deDE" then
     L["Scatter Shot"] = "Scatter-Aufnahme";
     L["Charge"] = "Berechnen";
     L["Cyclone"] = "Zyklon";
+    --CC-Mouseover
+    L["Stuns"] = "Betäubt";
+    L["Slows"] = "Verlangsamt";
+    L["Fears"] = "Befürchtet";
+    L["Stun Procs"] = "Betäubungsprozesse";
+    L["Disarms"] = "Entwaffnet";
+    L["Incapacitates"] = "Arbeitsunfähige";
+    L["Disorients"] = "Desorientierung";
+    L["Roots"] = "Wurzeln";
+    L["Root Procs"] = "Root-Prozesse";
+    L["Charms"] = "Charme";
+    L["Silences"] = "Schweigen";
+    L["Horrors"] = "Schrecken";
+    L["Knockbacks"] = "Rückschläge";
+    L["Others"] = "Andere";
+    --Options Panel
+    L["Dr-Mouseover"] = "Dr. Mouseover";
+    L["Spell Diminishing Returns on tooltip"] = "Verkleinernde Erträge auf der QuickInfo zaubern";
+    L["Crowd Control on player tooltip"] = "Crowd Control im Player-Tooltip";
 end

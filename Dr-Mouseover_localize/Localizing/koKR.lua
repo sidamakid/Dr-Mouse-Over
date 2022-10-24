@@ -2,6 +2,7 @@ local locale = GetLocale()
 local L = Mouseover_Tooltip_Locale_Table
 if locale == "koKR" then
     --Korean
+    --Dr-Mouseover
     L["Kidney Shot"] = "신장 주사";
     L["Dr-Category"] = "박사 카테고리";
     L["Stun"] = "전기";
@@ -28,4 +29,23 @@ if locale == "koKR" then
     L["Scatter Shot"] = "스캐터 샷";
     L["Charge"] = "충전";
     L["Cyclone"] = "사이 클론";
+    --CC-Mouseover
+    L["Stuns"] = "기절";
+    L["Slows"] = "속도가 느려집니다";
+    L["Fears"] = "두려움";
+    L["Stun Procs"] = "스턴 프로시";
+    L["Disarms"] = "무장 해제";
+    L["Incapacitates"] = "감쇠";
+    L["Disorients"] = "방향 전환";
+    L["Roots"] = "야채";
+    L["Root Procs"] = "루트 프로시";
+    L["Charms"] = "매력";
+    L["Silences"] = "침묵";
+    L["Horrors"] = "공포";
+    L["Knockbacks"] = "녹백";
+    L["Others"] = "다른";
+    --Options Panel
+    L["Dr-Mouseover"] = "마우스오버 박사";
+    L["Spell Diminishing Returns on tooltip"] = "툴팁의 수익 감소 맞춤법";
+    L["Crowd Control on player tooltip"] = "플레이어 툴팁에 대한 군중 제어";
 end

@@ -1,0 +1,5 @@
+<UI>
+    <Script file="Table_Spells_Classic.lua"/>
+    <Script file="Table_Spells_Wrath.lua"/>
+    <Script file="Cc-Mouseover-localize.lua"/>
+</UI>

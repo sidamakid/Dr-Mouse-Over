@@ -1,4 +1,5 @@
 <UI>
     <Include file= "Dr-Mouseover-Spells-Tables\Includes.xml"/>
     <Include file="Dr-Mouseover-Spells-Debuffs\Includes.xml"/>
+    <Include file="CC-Mousover_Classes\Class_Embeds.xml"/>
 </UI>

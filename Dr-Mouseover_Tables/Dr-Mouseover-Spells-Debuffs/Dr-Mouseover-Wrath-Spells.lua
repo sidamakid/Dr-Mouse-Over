@@ -38,6 +38,7 @@ Dr_Mouse_Over_Debuff_Spells ={
     [9485]  = L["Incapacitate"], -- Shackle Undead (Rank 2)
     [10955] = L["Incapacitate"], -- Shackle Undead (Rank 3)
     [51514] = L["Incapacitate"], -- Hex
+    [49203] = L["Incapacitate"], -- Hungering Cold
   --Charm
     [605] = L["Charm"],   -- Mind Control
    --Silences
